@@ -10,7 +10,6 @@
   min-height : 100vh;
   background : linear-gradient(135deg, #153677, #4e085f);
   padding :10px;
-
 }
 
 .todo-app {
@@ -27,13 +26,11 @@
   display :flex;
   align-items:center;
   margin-bottom :20px;
-
 }
 
 .todo-app h2 img {
   width: 30px;
   margin-left :10px;
-
 }
 
 .row {
@@ -86,13 +83,11 @@ ul li::before{
   background-position: center;
   top:12px;
   left:8px;
-
 }
 
 ul li.checked{
   color:#555;
   text-decoration:line-through;
-
 }
 
 ul li.checked::before{
